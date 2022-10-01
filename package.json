@@ -1,0 +1,27 @@
+{
+  "name": "timecode-to-ms",
+  "version": "1.0.0",
+  "description": "convert timecode to millisecond",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node . /test/conversion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fe4528/timecode-to-ms.git"
+  },
+  "keywords": [
+    "timecode",
+    "ms",
+    "conversion"
+  ],
+  "author": "IronWorks / Fe4528",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fe4528/timecode-to-ms/issues"
+  },
+  "homepage": "https://github.com/Fe4528/timecode-to-ms#readme"
+}
